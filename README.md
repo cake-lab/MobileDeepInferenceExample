@@ -7,3 +7,7 @@ Example code for talk in WPI CS4518 "Mobile and Ubiquitous Systems"
 
 Contains example android application used to demonstrate principles of on-device inference using a [MobileNet](https://arxiv.org/abs/1704.04861) CNN retrieved from [tfhub.dev](https://tfhub.dev/).
 This app is meant as a toy example to show how to load a TFLite model on an Android phone both manually using either CPU or GPU, and automatically through Android Studio.
+
+### `presentation`
+
+Contains a PDF of the slides used during the presentation.  For the original document please contact [Sam Ogden](https://www.samogden.net/).
